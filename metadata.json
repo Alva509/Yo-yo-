@@ -1,0 +1,6 @@
+{
+  "name": "LectureMind AI Study Assistant",
+  "description": "Premium AI-powered personal study companion converting lectures into complete organized knowledge, intelligent notes, transcripts, smart timeline, flashcards, and chapter summaries across French, Haitian Creole, and English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
